@@ -10,9 +10,9 @@ Getting Started
 
 Clone the Repository: Use Git to clone this repository to your local machine.
 
-Bash
+
 git clone https://github.com/<rajatsinghal02>/Unit-ConverterWebsite.git
-Use code with caution.
+
 Open the Project: Open the index.html file in your preferred web browser.
 
 **Dependencies:**
